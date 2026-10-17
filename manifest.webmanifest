@@ -1,0 +1,12 @@
+{
+  "name": "이번 생은 정치다",
+  "short_name": "이번 생은 정치다",
+  "description": "정치인 인생 시뮬레이션",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f1ec",
+  "theme_color": "#14213d",
+  "lang": "ko",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
